@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{width: 100%;
+    height: 150px;
+    background-color: #93B5C9;
+}
+
+main{
+    width: 100%;
+    height: 200px;
+    background-color: #AB2849;
+}
+
+div{
+    width: 100%;
+    height: 100%;
+    margin: 10px 0 10px 0;
+}
+section{
+    background-color: #AB2849;
+    width: 80%;
+    height: 100px;
+    float: left;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+footer{
+    height: 150px;
+    width: 90%;
+    margin: auto;
+    background-color: #AB2849;
+    clear: both;
+    margin-top: 10px;
+}
